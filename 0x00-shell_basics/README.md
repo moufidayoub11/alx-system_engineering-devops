@@ -9,4 +9,3 @@ The scripts and resources in this directory demonstrate how to:
 - Navigate the filesystem using command line.
 - Manipulate files and directories (creating, moving, deleting).
 - Display file information.
-
