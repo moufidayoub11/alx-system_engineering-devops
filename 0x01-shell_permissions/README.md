@@ -31,7 +31,7 @@ To use these scripts, follow the instructions below:
 
 1. Clone this repository to your local machine.
 ```
-$ git clone https://github.com/your-username/alx-system_engineering-devops.git
+$ git clone https://github.com/moufidayoub11/alx-system_engineering-devops.git
 ```
 
 2. Navigate to the `0x01-shell_permissions` directory.
