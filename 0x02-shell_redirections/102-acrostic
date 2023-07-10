@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cut -b 1 poem | tr -d '\n')"
+cut -b1 | paste -s | tr -d "[:blank:]"
